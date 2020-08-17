@@ -1,7 +1,8 @@
 # DIP-GroupProject
 This Rep is for the DIP group Project
 
-Team Memebers - Rohit,
+Team Memebers - Rohit,Mohan
+
 
 ### Use Case: Vacant Parking Lot Detector
 
